@@ -9,15 +9,12 @@ langchain-community==0.2.6
 langchain-core==0.2.37
 langchain-groq==0.1.9
 langchain-text-splitters==0.2.2
-numpy @ file:///Users/cbousseau/work/recipes/ci_py311/numpy_and_numpy_base_1677921358445/work
+numpy
 pydeck==0.9.1
 pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6btwyyj8a1/croot/pytz_1695131592184/work
 PyYAML @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a8_sdgulmz/croot/pyyaml_1698096054705/work
 pyzmq @ file:///Users/cbousseau/work/recipes/ci_py311/pyzmq_1677912759914/work
 safetensors==0.4.3
-scikit-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b53p48pwor/croot/scikit-learn_1684954746053/work
-scipy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_1b7r8zpma8/croot/scipy_1696543295098/work/dist/scipy-1.11.3-cp311-cp311-macosx_11_0_arm64.whl#sha256=73b819f2982eac97eeb9ece9fd252443b485f2a9c40f7dab1d0dd6d7d00a757b
-seaborn @ file:///Users/cbousseau/work/recipes/ci_py311/seaborn_1677961968762/work
 Send2Trash @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_5b31f0zzlv/croot/send2trash_1699371144121/work
 sentence-transformers==3.0.1
 streamlit==1.38.0
