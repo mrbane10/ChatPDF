@@ -9,7 +9,6 @@ langchain-community==0.2.6
 langchain-core==0.2.37
 langchain-groq==0.1.9
 langchain-text-splitters==0.2.2
-langcodes @ file:///opt/conda/conda-bld/langcodes_1643477751144/work
 numpy @ file:///Users/cbousseau/work/recipes/ci_py311/numpy_and_numpy_base_1677921358445/work
 pydeck==0.9.1
 pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6btwyyj8a1/croot/pytz_1695131592184/work
