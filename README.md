@@ -19,11 +19,3 @@ This Streamlit application allows users to upload a PDF document and chat with i
 3. **Run the app**
    ```bash
    streamlit run main.py
-
-
-.
-├── README.md           # Project description and instructions
-├── requirements.txt    # Python dependencies
-├── main.py             # The Streamlit app code
-└── .env                # Environment variables (not included in the repo)
-
